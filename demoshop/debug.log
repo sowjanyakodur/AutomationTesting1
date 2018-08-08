@@ -1,0 +1,4 @@
+[0725/134746.768:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sowjanya\AppData\Local\Temp\scoped_dir13608_25756\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0725/155452.507:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sowjanya\AppData\Local\Temp\scoped_dir14604_13427\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0725/155733.525:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sowjanya\AppData\Local\Temp\scoped_dir15560_27749\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
+[0725/175404.779:ERROR:file_io_win.cc(179)] CreateFile C:\Users\Sowjanya\AppData\Local\Temp\scoped_dir10828_31044\Crashpad\settings.dat: The process cannot access the file because it is being used by another process. (0x20)
